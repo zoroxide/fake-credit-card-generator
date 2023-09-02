@@ -15,7 +15,7 @@ for command interface
 
 `python gui.py`
 
-#screenshots
+# screenshots
 GUI: 
 ![gui](https://github.com/zoroxide/fake-credit-card-generator/blob/main/img/Screenshot%202023-09-02%20043538.png "gui")
 
