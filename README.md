@@ -7,19 +7,19 @@ It's based on PySimpleGUI and https://rapidapi.com/denode/api/fake-credit-card-g
 
 `pip install PySimpleGUI`
 
-###### for gui interface
+for gui interface
 
 `python cli.py` 
 
-###### for command interface
+for command interface
 
 `python gui.py`
 
 #screenshots
-######GUI: 
+GUI: 
 ![gui](https://github.com/zoroxide/fake-credit-card-generator/blob/main/img/Screenshot%202023-09-02%20043538.png "gui")
 
-######CLI: 
+CLI: 
 ![cli](https://github.com/zoroxide/fake-credit-card-generator/blob/main/img/Screenshot%202023-09-02%20042948.png "cli")
 
 
