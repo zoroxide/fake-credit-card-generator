@@ -13,7 +13,7 @@ time.sleep(1)
 print("Created by https://github.com/zoroxide")
 time.sleep(1)
 
-print("""
+print("""f
     Card Detials:
     =============
     card id: {api.id}
